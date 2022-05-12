@@ -251,7 +251,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: Row(
                   //Announcements Row
                   children: [
-                    ButtonCards(
+                   ButtonCards(
                       inputText: "College of Computer scinece and information",
                       image: 'assets/image4.png',
                       onTap: ArticlePage(
